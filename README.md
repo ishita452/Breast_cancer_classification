@@ -1,5 +1,5 @@
 # Breast_cancer_classification
-The project implements and compares multiple classification algorithms, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. The workflow covers data preprocessing, feature scaling, model training, evaluation, and model comparison and visualization using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix, . It also explores ROC curves, cross-validation, hyperparameter tuning, and feature importance to better understand model performance.
+The project implements and compares multiple classification algorithms, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. The workflow covers data preprocessing, feature scaling, model training, evaluation, model comparison and visualization using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix. It also explores ROC curves, cross-validation, hyperparameter tuning, and feature importance to better understand model performance.
 
 Models Used -Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier
 
